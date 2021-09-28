@@ -1,2 +1,2 @@
 # golangunittesting
- collection of practice codes for golang testing and mocking
+Part of learning go, practice codes for golang testing and mocking
